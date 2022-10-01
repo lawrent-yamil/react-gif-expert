@@ -1,13 +1,13 @@
 # Gif Expert App
-[]: # Title: Gif Expert App
-[]: # Description: Aplicación para buscar gifs animados
+# Title: Gif Expert App
+# Description: Aplicación para buscar gifs animados
 
-[]: # Author: [Nova Superior](https://github.com/novasuperior)
+# Author: [Nova Superior](https://github.com/novasuperior)
 
-[]: # Commands: yarn , yarn dev
+# Commands: yarn , yarn dev
 
-[]: # Keywords: React, Hooks, Gif, API, Fetch
+# Keywords: React, Hooks, Gif, API, Fetch
 
-[]: # Version: 1.0.0
+# Version: 1.0.0
 
-[]: # Date: 2020-10-01
+# Date: 2020-10-01
